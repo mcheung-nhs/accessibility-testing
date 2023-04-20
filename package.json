@@ -33,7 +33,7 @@
     "keypather": "^3.0.0",
     "nhsuk-frontend": "^3.0.4",
     "node-sass": "^7.0.3",
-    "nunjucks": "^3.2.1",
+    "nunjucks": "^3.2.4",
     "path": "^0.12.7"
   },
   "devDependencies": {}
